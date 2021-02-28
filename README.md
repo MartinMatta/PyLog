@@ -51,12 +51,9 @@ class App(Log):
         else:
             self.e("system not supported")
 
-    def close(self):
-        self.close()
 
 app = App()
 app.start()
-app.close()
 ```
 
 ```sh
