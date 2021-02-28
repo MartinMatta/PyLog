@@ -24,9 +24,7 @@ except ImportError:
     log.e("no module named cv2", tag="ImportError")
 ```
 
-```sh
-$ python3 test1.py
-```
+![png](images/test1.png)
 
 ## Example 2
 
@@ -56,6 +54,4 @@ app = App()
 app.start()
 ```
 
-```sh
-$ python3 test2.py
-```
+![png](images/test2.png)
