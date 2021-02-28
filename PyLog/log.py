@@ -1,4 +1,4 @@
-from colors import *
+from PyLog.colors import *
 import datetime
 
 
