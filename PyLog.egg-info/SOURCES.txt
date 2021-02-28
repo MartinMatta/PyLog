@@ -1,0 +1,9 @@
+README.md
+setup.py
+PyLog/__init__.py
+PyLog/colors.py
+PyLog/log.py
+PyLog.egg-info/PKG-INFO
+PyLog.egg-info/SOURCES.txt
+PyLog.egg-info/dependency_links.txt
+PyLog.egg-info/top_level.txt
