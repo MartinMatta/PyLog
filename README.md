@@ -24,7 +24,7 @@ except ImportError:
     log.e("no module named cv2", tag="ImportError")
 ```
 
-![png](images/test1.png)
+![png](images/test1.PNG)
 
 ## Example 2
 
@@ -54,4 +54,4 @@ app = App()
 app.start()
 ```
 
-![png](images/test2.png)
+![png](images/test2.PNG)
